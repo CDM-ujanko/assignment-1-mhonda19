@@ -1,0 +1,7 @@
+ div {background: azure;  
+        }
+ .two {background: rgb(166, 255, 194);  
+        }
+ div#myID.two{background: grey;
+        }
+/* comments in css */
