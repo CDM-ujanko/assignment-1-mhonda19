@@ -1,9 +1,10 @@
 body {background: #e6f0ff;
+    font-weight: bold;
 }
-div {background: azure;  
+div {background: white;
+    font-weight: normal;
         }
- .two {background: rgb(166, 255, 194);  
-        }
- div#myID.two{background: grey;
-        }
+ .sub {background: rgb(237, 245, 255);
+     font-style: italic;
+}
 /* comments in css */

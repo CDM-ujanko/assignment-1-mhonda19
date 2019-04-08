@@ -1,4 +1,4 @@
-console.log('The New File!');
+console.log('JQuery is READY!');
 console.log($);
 
 var x = 'a string variable';
@@ -10,9 +10,6 @@ console.log(x);
 console.log($('#myID p'));
 var $mydiv = $('#myID');
 var mydiv = document.getElementById('#myID');
-mydiv.setAttribute('style', 'color:blue');
-
-$mydiv.setAttribute('style', 'color:blue');
 
 console.log(mydiv);
 
