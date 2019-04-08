@@ -1,8 +1,10 @@
 body {background: #e6f0ff;
     font-weight: bold;
+    text-align: center;
 }
 div {background: white;
     font-weight: normal;
+    text-align: left;
         }
  .sub {background: rgb(237, 245, 255);
      font-style: italic;
